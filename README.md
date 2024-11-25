@@ -34,4 +34,6 @@ A machine learning-based project to estimate the probability of victory in an IP
 
 ## **Run the Streamlit app**
     streamlit run app.py  
-   
+
+## **Screenshot**
+![image](https://github.com/user-attachments/assets/715619eb-7404-47a8-bdcb-ce332709df7a)
