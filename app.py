@@ -7,7 +7,7 @@ import pandas as pd
 st.set_page_config(layout="wide")
 
 # Title of the page
-st.title("IPL Win Predictor")
+st.title("IPL Win Predictor 𝓟𝓸𝔀𝓮𝓻𝓮𝓭 𝓫𝔂 𝓢𝓚𝓡")
 
 # Importing data an model from pickel
 teams = pkl.load(open('team.pkl','rb'))
